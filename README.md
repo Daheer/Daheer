@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning/AI/Embedded Systems
 - 🌱 I’m currently learning Arduino Programming/Artificial Neural Networks
 - 💞️ I’m looking to collaborate on Fun Projects
-- 📫 How to reach me Phone: +2348147116750 e-mail: suhayrid6@gmail.com
+- 📫 Phone: +2348147116750 e-mail: suhayrid6@gmail.com
 
 <!---
 Daheer/Daheer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
