@@ -1,5 +1,5 @@
 # 🧑🏾‍💻About
-<table align = 'center' style='border: none;'>
+<table align = 'center' bgcolor='white'>
   <tr> 
     <td> <img src="https://64.media.tumblr.com/4134ce39be2d07cca54cf14c5fd90e01/314d70bf3f3f64dd-8f/s500x750/4e2758971771ca2f67efe213a981c6297d458913.pnj" width="75" height="150"/> </td> <td> 👋🏾 Hi, I’m Daheer / Deedax Inc <br> 👀 I’m interested in Machine Learning/AI/Embedded Systems <br> 🌱 I’m currently learning Arduino Programming/Artificial Neural Networks <br> 💞️ I’m looking to collaborate on Fun Projects <br> 📫 Phone: +2348147116750 e-mail: suhayrid6@gmail.com </td>
   </tr>
@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align = 'center'>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daheer&theme=github-light&date_format=M%20j%5B%2C%20Y%5D&fire=000000&border=FFFFFF&stroke=000000&ring=C6C6C6&currStreakNum=232323&sideNums=000000&dates=8B8B8B)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daheer&theme=github-light&date_format=M%20j%5B%2C%20Y%5D&fire=000000&border=FFFFFF&stroke=000000&ring=C6C6C6&currStreakNum=232323&sideNums=000000&dates=FFFFFF&background=818181)](https://git.io/streak-stats)
   
 <img src="https://komarev.com/ghpvc/?username=Daheer&style=for-the-badge&color=grey" alt=""/>
   
