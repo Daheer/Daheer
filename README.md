@@ -1,7 +1,7 @@
 # 🧑🏾‍💻About
 <table align = 'center' bgcolor='white'>
   <tr> 
-    <td> <img src="https://64.media.tumblr.com/4134ce39be2d07cca54cf14c5fd90e01/314d70bf3f3f64dd-8f/s500x750/4e2758971771ca2f67efe213a981c6297d458913.pnj"/> </td> <td> 👋🏾 Hi, I’m Daheer / Deedax Inc <br> 👀 I’m interested in Machine Learning/AI/Embedded Systems <br> 🌱 I’m currently learning Arduino Programming/Artificial Neural Networks <br> 💞️ I’m looking to collaborate on Fun Projects <br> 📫 Phone: +2348147116750 e-mail: suhayrid6@gmail.com </td>
+    <td> <img height = 40% width = 40% src="https://64.media.tumblr.com/4134ce39be2d07cca54cf14c5fd90e01/314d70bf3f3f64dd-8f/s500x750/4e2758971771ca2f67efe213a981c6297d458913.pnj"/> </td> <td> 👋🏾 Hi, I’m Daheer / Deedax Inc <br> 👀 I’m interested in Machine Learning/AI/Embedded Systems <br> 🌱 I’m currently learning Arduino Programming/Artificial Neural Networks <br> 💞️ I’m looking to collaborate on Fun Projects <br> 📫 Phone: +2348147116750 e-mail: suhayrid6@gmail.com </td>
   </tr>
 </table>
 
