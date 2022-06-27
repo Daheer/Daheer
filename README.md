@@ -1,7 +1,7 @@
 # 🧑🏾‍💻About
 <table align = 'center' bgcolor='white'>
   <tr>
-    <td rowspan = 5 align = 'center'> <img src="https://64.media.tumblr.com/4134ce39be2d07cca54cf14c5fd90e01/314d70bf3f3f64dd-8f/s500x750/4e2758971771ca2f67efe213a981c6297d458913.pnj"/> </td> <td> 👋🏾 Hi, I’m Daheer / Deedax Inc </td>
+    <td rowspan = 5 align = 'center'> <img src="https://64.media.tumblr.com/2dff41e7cc09a40b1796df0819a72ae8/868c5706a54593d1-2d/s250x400/c8e6e52fdeebc7522f963bde28f56b016b0ff991.jpg"/> </td> <td> 👋🏾 Hi, I’m Daheer / Deedax Inc </td>
   </tr>
   <tr>
     <td> 👀 I’m interested in Machine Learning/AI/Embedded Systems </td>
