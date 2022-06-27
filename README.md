@@ -1,5 +1,5 @@
 # 🧑🏾‍💻About
-<table align = 'center' bgcolor='white'>
+<table align = 'center' bgcolor='white' height = 1000 width = 1000>
   <tr>
     <td rowspan = 5 align = 'center'> <img src="https://64.media.tumblr.com/4134ce39be2d07cca54cf14c5fd90e01/314d70bf3f3f64dd-8f/s500x750/4e2758971771ca2f67efe213a981c6297d458913.pnj"/> </td> <td> 👋🏾 Hi, I’m Daheer / Deedax Inc </td>
   </tr>
