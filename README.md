@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 # 🌍Networks 
 
 <div id="badges" align = 'center'>
-  <a href = ' https://www.linkedin.com/in/daheer-deedax'> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=blue&style=social" alt="LinkedIn Badge"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href = 'https://www.linkedin.com/in/daheer-deedax'> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=blue&style=social" alt="LinkedIn Badge"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href = 'https://www.youtube.com/@deedaxinc'> <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=red&style=social" alt="Youtube Badge"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href = 'https://github.com/Daheer'> <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=black&style=social" alt="GitHub Badge"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href = 'https://twitter.com/DeedaxInc'> <img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=blue&style=social" alt="Twitter Badge"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
