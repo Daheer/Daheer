@@ -1,69 +1,50 @@
-# 🧑🏾‍💻About
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1215,100:1f3a47&height=200&section=header&text=Dahiru%20(Daheer)&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=suhayrid6%40gmail.com&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="Dahiru (Daheer) · suhayrid6@gmail.com"/>
 
-<table align='center' bgcolor='white'>
-  <tr>
-    <td rowspan=5 align='center'> <img src="https://64.media.tumblr.com/5fc2bbb64d89cc9de4ee945dd3142bb4/9e91594b41db1aa9-6a/s540x810/af4d8f687676046b2013f69db290b316cf3f931d.pnj"/> </td> <td> 👋🏾 Hi, I’m Daheer / Deedax Inc </td>
-  </tr>
-  <tr>
-    <td> 👀 I’m interested in Innovative Products that utilize Machine Learning </td>
-  </tr>
-  <tr>
-    <td> 🌱 I enjoy writing clean, readable and optimized code </td>
-  </tr>
-  <tr>
-    <td> 💞️ I’m looking to collaborate on AI projects, with a bit more preference for computer vision related ones </td>
-  </tr>
-  <tr>
-    <td> 📫 Phone: +2348147116750 e-mail: suhayrid6@gmail.com </td>
-  </tr>
-</table>
+<div align="center">
 
-<!---
-Daheer/Daheer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-# 🌍Networks 
-
-<div id="badges" align = 'center'>
-  <a href = 'https://www.linkedin.com/in/daheer-deedax'> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=blue&style=social" alt="LinkedIn Badge"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = 'https://www.youtube.com/@deedaxinc'> <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=red&style=social" alt="Youtube Badge"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = 'https://github.com/Daheer'> <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=black&style=social" alt="GitHub Badge"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = 'https://twitter.com/DeedaxInc'> <img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=blue&style=social" alt="Twitter Badge"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = 'https://instagram.com/deedax_inc'> <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=red&style=social" alt="Instagram Badge"/> </a>
-</div>
-
-# ⚒️Languages and Tools 
-
-<div id = 'devicons' align = 'center'>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex " width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"  title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="SSH"  alt="SSH" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow"  alt="Tensorflow" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="ThreeJS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
-</div>
-
-# 🔥Stats
-
-<div align = 'center'>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daheer&theme=github-light&date_format=M%20j%5B%2C%20Y%5D&fire=000000&border=FFFFFF&stroke=000000&ring=C6C6C6&currStreakNum=232323&sideNums=000000&dates=FFFFFF&background=818181)](https://git.io/streak-stats)
-  
-<img src="https://komarev.com/ghpvc/?username=Daheer&style=for-the-badge&color=grey" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&center=true&vCenter=true&width=600&lines=Speech+AI+for+African+languages;Hausa+%C2%B7+Yoruba+%C2%B7+Igbo+%C2%B7+and+more;Building+from+Nigeria" alt="Typing intro"/>
 
 </div>
+
+## About me
+
+**Role:** AI engineer and founder<br>
+**Based in:** Nigeria<br>
+**Focus:** AI and products that work for African languages and realities<br>
+**Now:** Co-founder of [OrbitalsAI](https://www.orbitalsai.com)<br>
+**Talks:** I speak and teach at developer communities ([Sessionize](https://sessionize.com/dahiru-ibrahim-dahiru/))
+
+## What I'm building
+
+**[OrbitalsAI](https://www.orbitalsai.com):** speech and language AI for African languages<br>
+**[PrepTab](https://www.preptab.com):** offline exam prep for Nigerian students<br>
+**[De Signature International](https://www.designaturehotel.com):** a digital platform for a hotel
+
+## Open-source projects
+
+**[Story-Story](https://github.com/Daheer/story-story-ai):** AI agents that write illustrated children's stories about African heroes ([try it](https://naija-heroes.vercel.app))<br>
+**[KoroKoro](https://github.com/Daheer/KoroKoro):** turns a short video of an object into a 3D model ([see results](https://daheer.github.io/korokoro-web-v2))<br>
+**[QuickPunch](https://github.com/Daheer/QuickPunch):** daily summaries of Nigerian news
+
+## Research & awards
+
+**Award:** Best Creative AI Project, Agentic AI Innovation Challenge 2025 (ReadyTensor), for Story-Story<br>
+**Paper:** *A Performance-Efficiency Benchmark of Transformer Models for Code-Mixed Hausa* (co-author, 2025)
+
+## Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,ts,nextjs,react,flutter,fastapi,postgres,docker,git,vscode&perline=12" alt="Tools"/>
+</p>
+
+## Find me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/daheer-deedax"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://huggingface.co/deedax"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+  <a href="https://x.com/DeedaxInc"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.youtube.com/@deedaxinc"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="mailto:suhayrid6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f3a47,100:0b1215&height=100&section=footer" width="100%" alt=""/>
